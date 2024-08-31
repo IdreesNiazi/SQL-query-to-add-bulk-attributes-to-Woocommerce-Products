@@ -1,0 +1,1 @@
+# SQL-query-to-add-bulk-attributes-to-Woocommerce-Products
